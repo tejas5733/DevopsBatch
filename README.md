@@ -10,3 +10,5 @@ lets learn together !
 - GIT
 
 [My_URL](https://www.example.com)
+
+![New_Pic](image.jpg)
