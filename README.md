@@ -11,4 +11,8 @@ lets learn together !
 
 [My_URL](https://www.example.com)
 
+---
+
 ![New_Pic](image.jpg)
+
+That is so funny! 😹
