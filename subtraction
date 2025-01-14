@@ -1,2 +1,2 @@
-int a, b, ans;
+int a, b, ans, ans2;
 ans = a-b;
