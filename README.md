@@ -1,5 +1,19 @@
 # DevopsBatch
+## Hello Devops !
 Devops Batch Practice Repo
-Hello Devops !
-Best Luck !
+*Best Luck !*
 lets learn together !
+### Tools :
+- Docker
+- Terraform
+- K8s
+- GIT
+
+[My_URL](https://www.example.com)
+
+---
+
+![New_Pic](image.jpg)
+
+That is so funny! 😹
+> Advantages
