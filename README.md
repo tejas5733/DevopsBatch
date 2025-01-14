@@ -2,7 +2,7 @@
 ## Hello Devops !
 Devops Batch Practice Repo
 *Best Luck !*
-lets learn together !
+lets learn together concepts !
 ### Tools :
 - Docker
 - Terraform
